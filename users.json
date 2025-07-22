@@ -1,0 +1,12 @@
+{
+  "1001": {
+    "name": "Tadele Mesfin",
+    "balance": 15000,
+    "transactions": [
+      {"type": "credit", "amount": 5000, "date": "2025-07-01"},
+      {"type": "debit", "amount": 2000, "date": "2025-07-10"},
+      {"type": "debit", "amount": 1000, "date": "2025-07-14"}
+    ],
+    "loan_due": "2025-08-01"
+  }
+}
